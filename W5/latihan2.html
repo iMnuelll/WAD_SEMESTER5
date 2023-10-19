@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>AKN Bojonegoro</title>
+    </head>
+    <body>
+        <h1>JavaScript can change image</h1>
+        <img id="myImage" onclick="changeImage()" src="lens-5600337_640.jpg" width="100" height="180">
+        <p>CLick the image to change image.</p>
+        <script>
+            function changeImage(){
+                var image = document.getElementById('myImage');
+                if (image.src.match("camera_lense")){
+                    image.src="lens-5600337_640.jpg"
+                } else{
+                    image.src ="camera_lense_0.jpeg"
+                }
+            }
+        </script>
+    </body>
+</html>
