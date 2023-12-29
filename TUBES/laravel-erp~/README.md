@@ -1,4 +1,4 @@
-## Daftar Fitur Saat Ini
+## Daftar Fitur :
 
 -   Register
 -   Login
@@ -118,5 +118,3 @@ Selanjutnya anda bisa melakukan login dengan :
 -   Password : password
 
 ## Selamat! Anda telah berhasil menginstal proyek tersebut.
-
-Catatan : Fitur akan terus saya perbaharui, anda bisa mengklik start untuk updatean selanjutnya.
